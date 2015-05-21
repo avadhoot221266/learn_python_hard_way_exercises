@@ -1,13 +1,13 @@
 from sys import argv
 
-##print "First fruit: "
-#first = raw_input()
+print "First fruit: "
+first = raw_input()
 
-#print "Second fruit: "
-#second = raw_input()
+print "Second fruit: "
+second = raw_input()
 
-#print "Third fruit: "
-#third = raw_input()
+print "Third fruit: "
+third = raw_input()
 
 script, first, second, third = argv
 
